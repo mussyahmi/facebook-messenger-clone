@@ -6,7 +6,7 @@ A Facebook Messenger clone built using React.
 
 Mustafa Syahmi (mussyahmi)
 
-#Demo
+# Demo
 
 The app is deployed using Firebase at https://facebook-messenger-clone-dec01.web.app/
 
