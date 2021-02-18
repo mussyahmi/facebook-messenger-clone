@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Facebook Messenger Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Facebook Messenger clone built using React.
+
+# Author
+
+Mustafa Syahmi (mussyahmi)
+
+#Demo
+
+The app is deployed using Firebase at https://facebook-messenger-clone-dec01.web.app/
 
 ## Available Scripts
 
