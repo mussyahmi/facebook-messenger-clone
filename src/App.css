@@ -1,5 +1,9 @@
-.App {
+.app {
   text-align: center;
+}
+
+.app > img {
+  margin-top: 20px;
 }
 
 .app__form {
@@ -23,4 +27,8 @@
 
 .app__iconButton {
   flex: 0;
+}
+
+.app__bottom {
+  padding-bottom: 200px;
 }
